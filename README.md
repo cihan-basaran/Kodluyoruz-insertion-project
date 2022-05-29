@@ -20,3 +20,14 @@ patika.dev sitesine ait veri yapıları ve algoritma bölümü projeleri
 Big O gösterimi : O (n^2)
 
 18 elemanı orta konumda olması sebebi ile avarage case'dir.
+
+
+[7,3,5,8,2,9,4,15,6] -- Anadizi
+
+[2,3,5,8,7,9,4,15,6] -- 1. adım
+
+[2,3,5,8,7,9,4,15,6] -- 2. adım
+
+[2,3,4,8,7,9,5,15,6] -- 3. adım
+
+[2,3,4,5,7,9,8,15,6] -- 4. adım
